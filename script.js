@@ -12,7 +12,7 @@ let question_number_element = document.getElementById("question-number");
         let current_question_number = 0;
         let score = 0;
         let time;
-        const total_time = 15;
+        const total_time = 20;
         let sec = total_time;
 
         function timer() {
